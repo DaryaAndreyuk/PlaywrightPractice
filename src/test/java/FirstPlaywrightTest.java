@@ -47,10 +47,10 @@ public class FirstPlaywrightTest {
 
        //<button type="submit" class="btn btn-outline-primary mt-2">Submit</button>
 
-       /*1 approach
+       /* 1 approach
        page.getByRole(AriaRole.BUTTON).click();*/
 
-        /*2 approach
+        /* 2 approach
         page.locator("//button[@type='submit']").click();*/
 
         //3 approach
