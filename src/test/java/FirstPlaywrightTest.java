@@ -44,7 +44,6 @@ public class FirstPlaywrightTest {
         Locator passwordInput = page.locator("#password");
         passwordInput.fill("invaliduser");
 
-
        //<button type="submit" class="btn btn-outline-primary mt-2">Submit</button>
 
        /* 1 approach
