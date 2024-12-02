@@ -16,7 +16,6 @@ public class APIPlaywrightTest {
     public void setUp() {
         playwright = Playwright.create();
         apiRequestContext = playwright.request().newContext();
-
     }
 
     @Test
