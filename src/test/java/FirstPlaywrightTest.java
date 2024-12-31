@@ -29,7 +29,6 @@ public class FirstPlaywrightTest {
         Assertions.assertTrue(page.locator("#success").isVisible());
 
         page.close();
-
     }
 
     @Test
